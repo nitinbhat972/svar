@@ -1,0 +1,16 @@
+[package]
+name = "svar"
+version = "0.1.0"
+edition = "2021"
+license = "GPL-3.0-or-later"
+
+[dependencies]
+ratatui = "0.29"
+crossterm = { version = "0.28", features = ["event-stream"] }
+tokio = { version = "1.43", features = ["full"] }
+serde = { version = "1.0", features = ["derive"] }
+reqwest = { version = "0.12", features = ["json"] }
+zbus = { version = "4.4", features = ["tokio"] }
+anyhow = "1.0"
+futures-util = "0.3"
+urlencoding = "2.1"
