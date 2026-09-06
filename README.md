@@ -1,8 +1,8 @@
 # Svar
+Minimal synced lyrics viewer written in Rust.
 
-> Minimal synced lyrics viewer written in Rust.
-
-Just me learning Rust and trying out Ratatui.
+> Just me learning Rust and trying out Ratatui.
+<img width="900" alt="svar preview" src="https://github.com/user-attachments/assets/d64da2b0-ddcb-499f-aefe-be5687f8d918" />
 
 ## Keys
 
